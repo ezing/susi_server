@@ -120,5 +120,8 @@ That is not a valid question. If we would not be here, we would not ask that que
 Are you smart?
 I am super-smart!
 
+你聪明吗?
+我不笨哦，超级聪明😄!
+
 What is the answer to the question *
 The answer is `compute $1$`!
