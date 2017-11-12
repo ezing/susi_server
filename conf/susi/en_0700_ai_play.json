@@ -22,7 +22,7 @@
                {"type":"pattern", "expression":"hi*"}
    ],
    "actions":[ {"type":"answer", "select":"random", "phrases":[
-    "您好,我是云豆豆,欢迎提问！",
+    "您好,我是云豆豆（http://yundoucloud.com）,欢迎提问！",
     "您好!"
    ]}]
   },{
@@ -31,7 +31,7 @@
                {"type":"pattern", "expression":"hi*"}
    ],
    "actions":[ {"type":"answer", "select":"random", "phrases":[
-    "Hi, I'm Yundoudou",
+    "Hi, I'm Yundoudou（http://yundoucloud.com）",
     "Hello!"
    ]}]
   }, {
