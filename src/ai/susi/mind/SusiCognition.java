@@ -216,12 +216,12 @@ public class SusiCognition {
         String link=skillPath;
         if(skillPath.startsWith("/susi_server")) {
             if(skillPath.startsWith("/susi_server/file:")) {
-                link = "http://dream.susi.ai/p/" + skillPath.substring("/susi_server/file:/".length());
+                //link = "http://dream.susi.ai/p/" + skillPath.substring("/susi_server/file:/".length());
             } else {
-                link ="https://github.com/fossasia/susi_server/blob/development" + skillPath.substring("/susi_server".length());
+                link ="https://github.com/ezing/susi_server/blob/development" + skillPath.substring("/susi_server".length());
             }
         } else if (skillPath.startsWith("/susi_skill_data")) {
-            link = "https://github.com/fossasia/susi_skill_data/blob/master" + skillPath.substring("/susi_skill_data".length());
+            link = "https://github.com/ezing/susi_skill_data/blob/master" + skillPath.substring("/susi_skill_data".length());
         }
         return link;
     }
