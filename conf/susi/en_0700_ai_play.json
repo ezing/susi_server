@@ -16,7 +16,16 @@
     "Apologies are not necessary.",
     "It did not bother me. Please continue."
    ]}]
-  }, {
+  },{
+   "phrases":[ {"type":"pattern", "expression":"您好*"},
+               {"type":"pattern", "expression":"你好*"},
+               {"type":"pattern", "expression":"hi*"}
+   ],
+   "actions":[ {"type":"answer", "select":"random", "phrases":[
+    "您好,我是云豆豆,欢迎提问！",
+    "您好!"
+   ]}]
+  },{
    "phrases":[ {"type":"pattern", "expression":"hello*"},
                {"type":"pattern", "expression":"hey*"},
                {"type":"pattern", "expression":"hi*"}
