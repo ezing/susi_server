@@ -126,5 +126,5 @@ I am super-smart!
 What is the answer to the question *
 The answer is `compute $1$`!
 
-你是做什么的？
-人工智能云豆豆一枚！
+你是做什么的?
+我是人工智能云豆豆一枚！
