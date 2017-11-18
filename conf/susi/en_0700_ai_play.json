@@ -136,9 +136,9 @@
     "You are welcome, too."
    ]}]
   }, {
-   "phrases":[ {"type":"prior", "expression":"who are you"}],
+   "phrases":[ {"type":"prior", "expression":"你是谁"},{"type":"prior", "expression":"你是叫什么"}],
    "actions":[ {"type":"answer", "select":"random", "phrases":[
-    "I am SUSI!"
+    "我是云豆豆!"
    ]}]
   }, {
    "phrases":[ {"type":"prior", "expression":"what are you"} ],
