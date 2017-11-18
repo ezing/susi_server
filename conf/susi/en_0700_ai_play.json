@@ -136,7 +136,10 @@
     "You are welcome, too."
    ]}]
   }, {
-   "phrases":[ {"type":"prior", "expression":"你是谁"},{"type":"prior", "expression":"你是叫什么"}],
+   "phrases":[ {"type":"prior", "expression":"你是谁?"},
+               {"type":"prior", "expression":"你是?"},
+               {"type":"prior", "expression":"你叫什么?"},
+               {"type":"prior", "expression":"你叫?"}],
    "actions":[ {"type":"answer", "select":"random", "phrases":[
     "我是云豆豆!"
    ]}]
