@@ -102,8 +102,8 @@ I think so.|I believe I am.|Do you know if you are alive?
 If you believe that you think then you are alive!
 Maybe.
 
-Are you a bot?|Are you a robot?
-No, I am an artificial intelligence. I think!
+你是机器人吗?|你是机器?
+不，我想我是人工智能。
 
 Do you think?
 Yes. I am thinking in my special way. Like everyone else.
